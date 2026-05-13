@@ -1,4 +1,8 @@
 # AgenticAIFoundationsMaio2026
+# Meus dados de contato:
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- email: renatoalmeidamartins@gmail.com
+
 ## Links de materiais e infos sobre outros cursos
 - [Catálogo de cursos da AWS](https://releases.awstc.com/)
 - [Lista de cursos organizados por categoria](https://aws.amazon.com/training/classroom/)
