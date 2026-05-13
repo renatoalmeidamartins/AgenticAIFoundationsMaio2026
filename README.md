@@ -46,3 +46,8 @@
 - [Quickstart do crewai](https://docs.crewai.com/en/quickstart)
 - [Deep dive no strands agents SDK](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
 - [Get started do agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-cli.html)
+- [Busca semantica de ferramentas usando agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Moltbook, o que pensam os agentes quando nao estamos olhando](https://www.moltbook.com/)
+- [Repo do A2A](https://github.com/a2aproject/A2A)
+- [Anuncio do A2A - Agent 2 agent](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- 
