@@ -50,4 +50,5 @@
 - [Moltbook, o que pensam os agentes quando nao estamos olhando](https://www.moltbook.com/)
 - [Repo do A2A](https://github.com/a2aproject/A2A)
 - [Anuncio do A2A - Agent 2 agent](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [Agentcore vs solucao "caseira" sob a ótica da well architected framework](https://builder.aws.com/content/3BAe8mzNa6NOtEwXVmMNkXyhugc/running-ai-agents-on-eks-vs-amazon-bedrock-agentcore-a-well-architected-perspective) 
 - 
