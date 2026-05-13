@@ -14,3 +14,6 @@
 - [Transformes na inteligência artificial](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [6 Rs na migração de aplicações para a nuvem](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/) - note que faz parte de uma trilogia de artigos, veja também os outros
 - [Estudo publicado na Communications of the ACM, avaliando a produtividade do uso de GitHub copilot](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+- [Prmpt engineering definido na AWS](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Prompt engineering na documentação do Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [Framework sugerido para criação de bons prompts](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
