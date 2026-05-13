@@ -17,3 +17,5 @@
 - [Prmpt engineering definido na AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Prompt engineering na documentação do Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [Framework sugerido para criação de bons prompts](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) 
