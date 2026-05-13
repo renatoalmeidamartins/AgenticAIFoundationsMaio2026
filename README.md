@@ -39,7 +39,7 @@
 - [Anuncio do agentcore payments](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
 - [Uso de specs no Kiro](https://kiro.dev/docs/specs/)
 - [GitHub copilot indo para modelo de preços baseado em consumo, exclusivamente, no que parece ser uma tendência](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/)
-- [Mais do acuma](https://docs.github.com/en/billing/concepts/product-billing/github-copilot-licenses)
+- [Mais do acima](https://docs.github.com/en/billing/concepts/product-billing/github-copilot-licenses)
 - [Ferramentas disponiveis por meio do strands tools](https://github.com/strands-agents/tools)
 - [Repo super interessante com exemplos de Strands](https://github.com/awslabs/agentcore-samples/tree/main)
 - [Artigo com um exemplo de construcao de agentes usando Langchain E langgraph](https://medium.com/pythoneers/building-ai-agent-systems-with-langgraph-9d85537a6326)
