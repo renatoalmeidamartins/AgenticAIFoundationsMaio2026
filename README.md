@@ -24,3 +24,4 @@
 - [Servidores MCP de referência](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 - [Registry oficial de MCP](https://registry.modelcontextprotocol.io/)
 - [Documentação de MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [ANúncio do MCP registry disponível no Bedrock](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
