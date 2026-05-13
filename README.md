@@ -9,3 +9,7 @@
 - [Matriz de escopo de segurança de Gen AI](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
 - [Top10 de LLMs pelo OWASP](https://genai.owasp.org/llm-top-10/)
 - [Sagemaker studio lab, bom para brincar com Sagemaker sem uma conta da AWS](https://studiolab.sagemaker.aws/)
+- [Zoológico de redes neurais](https://www.asimovinstitute.org/neural-network-zoo/)
+- [Algoritmos embarcados no SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Transformes na inteligência artificial](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [6 Rs na migração de aplicações para a nuvem](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/) - note que faz parte de uma trilogia de artigos, veja também os outros
