@@ -20,4 +20,7 @@
 - [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [Livro bem divertido ilustrando falácias de argumentação](https://bookofbadarguments.com/)
-- 
+- [Pattern strangler fig, amplamente usado para modernizar aplicacões (conversão de monolitos em microserviços)](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [Servidores MCP de referência](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
+- [Registry oficial de MCP](https://registry.modelcontextprotocol.io/)
+- [Documentação de MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
